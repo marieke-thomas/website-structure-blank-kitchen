@@ -1,0 +1,27 @@
+body{
+  /* background-color:yellow; */
+  background-image:url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/kitchen-decor-ideas-1580491833.jpg?crop=1.00xw:0.669xh;0,0.151xh&resize=640:*");
+  background-size: cover;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#container{
+  margin:20%;
+  margin-top:20px;
+  margin-bottom:20px;
+  text-align:center;
+  background-color:white;
+  padding:20px;
+  border-radius:20px;
+  opacity:85%;
+}
+
+
+.card{
+  min-height:100px;
+  background-color:white;
+  margin:40px;
+  border-style:double;
+  border-radius:10px;
+  /* padding: 10px; */
+}
